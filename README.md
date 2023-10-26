@@ -2,7 +2,7 @@
   <img src="https://www.finii-apps.de/img/finii_logo.png" width="300" alt="Nerd Fonts Logo" />
 </h1>
 
-# 1 Second Deck for Everyone – Briefing Light
+# 1 Second Deck for Everyone – Brainstorm Light
 
 
 ## App
@@ -13,6 +13,10 @@
 [**Installation Options**](#font-installation)
   * [**1 - Bedienung**](#bedienung)
   * [**2 - Installation**](#installation)
+
+## Einrichtung
+
+Modifiziere die config und passe die vars an
 
 ## Bedienung
 xxxx
