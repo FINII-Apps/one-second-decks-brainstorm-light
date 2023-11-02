@@ -9,7 +9,9 @@ Starte in das Zeitalter der Automatisierung mit den 1-Second-Decks. Diese frei e
 
 ![- Bild fehlt -](https://github.com/FINII-Apps/one-second-decks-brainstorm-light/blob/main/screenshot.png?raw=true "Output of Script")
 
-# Inhalt
+# Einführung
+Jetzt kann es losgehen. Guck hier: 
+
 [**Installation Options**](#font-installation)
   * [**1 - Bedienung**](#bedienung)
   * [**2 - Installation**](#installation)
