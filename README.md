@@ -15,4 +15,5 @@
 - Requirements: Die Module, die du installieren musst, findest du in der requirements.txt. Bitte achte darauf, dass du die richtigen Versionsnummern der Module installierst, die in der requirements.txt angegeben sind
 
 **Output**
+
 ![- Bild fehlt -](https://github.com/FINII-Apps/one-second-decks-brainstorm-light/blob/main/screenshot.png?raw=true "Output of Script")
