@@ -21,5 +21,5 @@
 **Weitere interessante Apps**
 - [Report Light](https://github.com/FINII-Apps/one-second-decks-report-light "Zur App")
 - [Briefing Light](https://github.com/FINII-Apps/one-second-decks-briefing-light "Zur App")
-- [Brainstorm Light](https://github.com/FINII-Apps/one-second-decks-brainstorm-light "Zur App")
+- [Workshop Agenda Light](https://github.com/FINII-Apps/one-second-decks-workshop-light "Zur App")
 
