@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://www.finii-apps.de/img/finii_logo.png" width="300" alt="Nerd Fonts Logo" />
+  <img src="https://www.finii-apps.de/img/finii_logo.png" width="150" alt="Nerd Fonts Logo" />
 </h1>
 
 # Was sind 1 Second Decks?
@@ -9,25 +9,11 @@ Starte in das Zeitalter der Automatisierung mit den 1-Second-Decks. Diese frei e
 
 ![- Bild fehlt -](https://github.com/FINII-Apps/one-second-decks-brainstorm-light/blob/main/screenshot.png?raw=true "Output of Script")
 
-# Einführung
-Jetzt kann es losgehen. Guck hier: 
+**Beginner**
+- Die App läuft mit Python. Du kannst die aktuelle Version von python.org laden, um die App einzurichten. Zusätzlich wird ein OpenAI Konto benötigt mit API Nummer
+- Kontakt: mail@finii-apps.de
 
-[**Installation Options**](#font-installation)
-  * [**1 - Bedienung**](#bedienung)
-  * [**2 - Installation**](#installation)
-
-# Einrichtung
-
-Modifiziere die config und passe die vars an
-
-# Bedienung
-xxxx
-
-# Installation
-
-### `Step 1: Download and Install Manually`
-
-1 .env in die Environment: OPENAI_API_KEY=XXXXXX
-2 xxxx
-
-### `Step 2: XY`
+**Professionals**
+- Die App wird über mit Automator aufgerufen und ausgeführt
+- Config: Hier konfigurierst du deine App
+- Requirements: Die Module, die du installieren musst, findest du in der requirements.txt. Bitte achte darauf, dass du die richtigen Versionsnummern der Module installierst, die in der requirements.txt angegeben sind
